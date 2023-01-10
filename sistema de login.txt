@@ -1,2 +1,5 @@
 Nome do usuario
 senha
+idade
+pais
+endereço
